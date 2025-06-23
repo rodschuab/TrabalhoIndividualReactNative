@@ -13,12 +13,6 @@ export const styles = StyleSheet.create({
     justifyContent: 'center',
     marginBottom: 40,
   },
-  header: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    justifyContent: 'center',
-    marginBottom: 30,
-  },
   logoImage: {
     width: 30,
     height: 30,
@@ -29,18 +23,6 @@ export const styles = StyleSheet.create({
     color: '#1DB954',
     fontWeight: 'bold',
 
-  },
-  checkboxContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    alignSelf: 'flex-start',
-    marginBottom: 20,
-  },
-
-  checkbox: {
-    alignSelf: "center",
-    marginBottom: 20,
-    tintColor: "#1DB954",
   },
   input: {
     width: "100%",
